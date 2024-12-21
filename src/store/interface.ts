@@ -501,5 +501,5 @@ export interface CodeGraph {
   name: string;
   url: string;
   created?: string;
-  updated?: string;
+  updateds?: string;
 }
